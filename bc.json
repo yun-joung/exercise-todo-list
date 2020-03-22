@@ -3,6 +3,7 @@
 	"slug" : "todo-list",
 	"status": "published",
 	"solution": "https://bitbucket.org/codingacademy/todo-list",
+	"preview": "https://github.com/alesanchezr/exercise-todo-list/blob/master/preview.gif?raw=true",
 	"duration" : 16,
 	"description" : "Create a simple todo web app using the React.js framework",
 	"talents": [
