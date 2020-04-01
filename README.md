@@ -1,13 +1,13 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) React TODO application
 
 <p align="center">
-  <img height="200" src="https://projects.breatheco.de/json?slug=todo-list&preview" />
+  <img height="200" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
 </p>
 
 Create a TODO list application that allows users to add and delete tasks.
 
 ## 📝 Instructions
-- You app needs to look [like this](https://projects.breatheco.de/json?slug=todo-list&preview).
+- You app needs to look [like this](https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true).
 - The tasks are added when the user press enter on the keyboard or you can have your own button.
 - The delete icon shows only when the task is hovered.
 - The use can add as many tasks as it wants.
