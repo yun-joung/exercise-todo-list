@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Applicacion de TODO (tareas) con Vanilla JS
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Applicacion de TODO (tareas) con React.js
 
 <p align="center">
   <img height="200" src="https://projects.breatheco.de/json?slug=todo-list&preview" />
