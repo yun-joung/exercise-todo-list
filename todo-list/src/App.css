@@ -1,0 +1,8 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+    width: 600px;
+}
